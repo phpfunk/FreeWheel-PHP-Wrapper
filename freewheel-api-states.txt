@@ -1,0 +1,2417 @@
+07	Andorra la Vella
+02	Canillo
+03	Encamp
+08	Escaldes-Engordany
+04	La Massana
+05	Ordino
+06	Sant Julia de Loria
+01	Abu Dhabi
+03	Dubai
+04	Fujairah
+05	Ras Al Khaimah
+06	Sharjah
+07	Umm Al Quwain
+05	Bamian
+11	Herat
+13	Kabol
+23	Kandahar
+24	Kondoz
+17	Lowgar
+18	Nangarhar
+36	Paktia
+22	Parvan
+33	Sar-e Pol
+26	Takhar
+28	Zabol
+03	Saint George
+04	Saint John
+05	Saint Mary
+07	Saint Peter
+41	Diber
+42	Durres
+43	Elbasan
+44	Fier
+46	Korce
+48	Lezhe
+49	Shkoder
+50	Tirane
+51	Vlore
+01	Aragatsotn
+02	Ararat
+03	Armavir
+05	Kotayk'
+06	Lorri
+07	Shirak
+08	Syunik'
+11	Yerevan
+01	Benguela
+06	Cuanza Sul
+09	Huila
+20	Luanda
+17	Lunda Norte
+12	Malanje
+16	Zaire
+01	Buenos Aires
+02	Catamarca
+03	Chaco
+04	Chubut
+05	Cordoba
+06	Corrientes
+07	Distrito Federal
+08	Entre Rios
+09	Formosa
+10	Jujuy
+11	La Pampa
+12	La Rioja
+13	Mendoza
+14	Misiones
+15	Neuquen
+16	Rio Negro
+17	Salta
+18	San Juan
+19	San Luis
+20	Santa Cruz
+21	Santa Fe
+22	Santiago del Estero
+23	Tierra del Fuego
+24	Tucuman
+01	Burgenland
+02	Karnten
+03	Niederosterreich
+04	Oberosterreich
+05	Salzburg
+06	Steiermark
+07	Tirol
+08	Vorarlberg
+09	Wien
+01	Australian Capital Territory
+02	New South Wales
+03	Northern Territory
+04	Queensland
+05	South Australia
+06	Tasmania
+07	Victoria
+08	Western Australia
+01	Abseron
+09	Baki
+12	Beylaqan
+18	Fuzuli
+21	Goranboy
+25	Ismayilli
+35	Naxcivan
+49	Salyan
+01	Federation of Bosnia and Herzegovina
+02	Republika Srpska
+01	Christ Church
+03	Saint George
+04	Saint James
+07	Saint Lucy
+08	Saint Michael
+10	Saint Philip
+11	Saint Thomas
+01	Antwerpen
+02	Brabant
+10	Brabant Wallon
+11	Brussels Hoofdstedelijk Gewest
+03	Hainaut
+04	Liege
+05	Limburg
+06	Luxembourg
+07	Namur
+08	Oost-Vlaanderen
+12	Vlaams-Brabant
+09	West-Vlaanderen
+53	Kadiogo
+38	Blagoevgrad
+39	Burgas
+40	Dobrich
+41	Gabrovo
+42	Grad Sofiya
+43	Khaskovo
+44	Kurdzhali
+45	Kyustendil
+46	Lovech
+33	Mikhaylovgrad
+47	Montana
+48	Pazardzhik
+49	Pernik
+50	Pleven
+51	Plovdiv
+52	Razgrad
+53	Ruse
+54	Shumen
+55	Silistra
+56	Sliven
+57	Smolyan
+58	Sofiya
+59	Stara Zagora
+60	Turgovishte
+61	Varna
+62	Veliko Turnovo
+63	Vidin
+64	Vratsa
+65	Yambol
+02	Al Manamah
+08	Al Mintaqah al Gharbiyah
+10	Al Mintaqah ash Shamaliyah
+03	Al Muharraq
+13	Ar Rifa
+06	Sitrah
+02	Bujumbura
+03	Hamilton
+06	Saint George
+01	Chuquisaca
+02	Cochabamba
+03	El Beni
+04	La Paz
+05	Oruro
+07	Potosi
+08	Santa Cruz
+09	Tarija
+01	Acre
+02	Alagoas
+03	Amapa
+04	Amazonas
+05	Bahia
+06	Ceara
+07	Distrito Federal
+08	Espirito Santo
+29	Goias
+13	Maranhao
+14	Mato Grosso
+11	Mato Grosso do Sul
+15	Minas Gerais
+16	Para
+17	Paraiba
+18	Parana
+30	Pernambuco
+20	Piaui
+22	Rio Grande do Norte
+23	Rio Grande do Sul
+21	Rio de Janeiro
+24	Rondonia
+25	Roraima
+26	Santa Catarina
+27	Sao Paulo
+28	Sergipe
+31	Tocantins
+25	Freeport
+27	Governor's Harbour
+22	Harbour Island
+31	Marsh Harbour
+23	New Providence
+20	Thimphu
+08	North-East
+09	South-East
+01	Brestskaya Voblasts'
+02	Homyel'skaya Voblasts'
+03	Hrodzyenskaya Voblasts'
+06	Mahilyowskaya Voblasts'
+04	Minsk
+07	Vitsyebskaya Voblasts'
+01	Belize
+02	Cayo
+04	Orange Walk
+05	Stann Creek
+AB	Alberta
+BC	British Columbia
+MB	Manitoba
+NB	New Brunswick
+NT	Northwest Territories
+NS	Nova Scotia
+NU	Nunavut
+ON	Ontario
+PE	Prince Edward Island
+QC	Quebec
+SK	Saskatchewan
+YT	Yukon Territory
+18	Bangui
+17	Ombella-Mpoko
+12	Brazzaville
+04	Kouilou
+10	Sangha
+01	Aargau
+02	Ausser-Rhoden
+03	Basel-Landschaft
+04	Basel-Stadt
+05	Bern
+06	Fribourg
+07	Geneve
+08	Glarus
+09	Graubunden
+10	Inner-Rhoden
+26	Jura
+11	Luzern
+12	Neuchatel
+13	Nidwalden
+14	Obwalden
+15	Sankt Gallen
+16	Schaffhausen
+17	Schwyz
+18	Solothurn
+19	Thurgau
+20	Ticino
+21	Uri
+22	Valais
+23	Vaud
+24	Zug
+25	Zurich
+61	Abidjan
+51	Sassandra
+02	Aisen del General Carlos Ibanez del Campo
+03	Antofagasta
+04	Araucania
+05	Atacama
+06	Bio-Bio
+07	Coquimbo
+08	Libertador General Bernardo O'Higgins
+09	Los Lagos
+10	Magallanes y de la Antartica Chilena
+11	Maule
+12	Region Metropolitana
+13	Tarapaca
+01	Valparaiso
+11	Centre
+12	Extreme-Nord
+05	Littoral
+07	Nord-Ouest
+08	Ouest
+14	Sud
+09	Sud-Ouest
+01	Anhui
+22	Beijing
+33	Chongqing
+07	Fujian
+15	Gansu
+30	Guangdong
+16	Guangxi
+18	Guizhou
+31	Hainan
+10	Hebei
+08	Heilongjiang
+09	Henan
+12	Hubei
+11	Hunan
+04	Jiangsu
+03	Jiangxi
+05	Jilin
+19	Liaoning
+20	Nei Mongol
+21	Ningxia
+06	Qinghai
+26	Shaanxi
+25	Shandong
+23	Shanghai
+24	Shanxi
+32	Sichuan
+28	Tianjin
+13	Xinjiang
+14	Xizang
+29	Yunnan
+02	Zhejiang
+02	Antioquia
+04	Atlantico
+08	Caqueta
+32	Casanare
+09	Cauca
+10	Cesar
+11	Choco
+12	Cordoba
+33	Cundinamarca
+16	Huila
+17	La Guajira
+19	Meta
+20	Narino
+21	Norte de Santander
+22	Putumayo
+23	Quindio
+24	Risaralda
+25	San Andres y Providencia
+26	Santander
+27	Sucre
+28	Tolima
+29	Valle del Cauca
+01	Alajuela
+02	Cartago
+03	Guanacaste
+04	Heredia
+06	Limon
+07	Puntarenas
+08	San Jose
+05	Camaguey
+07	Ciego de Avila
+08	Cienfuegos
+02	Ciudad de la Habana
+09	Granma
+12	Holguin
+11	La Habana
+13	Las Tunas
+03	Matanzas
+01	Pinar del Rio
+14	Sancti Spiritus
+15	Santiago de Cuba
+16	Villa Clara
+17	Sao Domingos
+01	Famagusta
+02	Kyrenia
+03	Larnaca
+05	Limassol
+04	Nicosia
+06	Paphos
+52	Hlavni Mesto Praha
+20	Hradec Kralove
+21	Jablonec nad Nisou
+23	Jiein
+24	Jihlava
+79	Jihocesky Kraj
+78	Jihomoravsky Kraj
+81	Karlovarsky Kraj
+30	Kolin
+82	Kralovehradecky Kraj
+33	Liberec
+83	Liberecky Kraj
+36	Melnik
+37	Mlada Boleslav
+85	Moravskoslezsky Kraj
+39	Nachod
+41	Nymburk
+84	Olomoucky Kraj
+45	Pardubice
+86	Pardubicky Kraj
+87	Plzensky Kraj
+61	Semily
+88	Stredocesky Kraj
+70	Trutnov
+89	Ustecky Kraj
+80	Vysocina
+90	Zlinsky Kraj
+01	Baden-WÃ?rttemberg
+02	Bayern
+16	Berlin
+11	Brandenburg
+03	Bremen
+04	Hamburg
+05	Hessen
+12	Mecklenburg-Vorpommern
+06	Niedersachsen
+07	Nordrhein-Westfalen
+08	Rheinland-Pfalz
+09	Saarland
+13	Sachsen
+14	Sachsen-Anhalt
+10	Schleswig-Holstein
+15	Thuringen
+01	Arhus
+02	Bornholm
+03	Frederiksborg
+04	Fyn
+05	Kobenhavn
+07	Nordjylland
+08	Ribe
+09	Ringkobing
+10	Roskilde
+11	Sonderjylland
+06	Staden Kobenhavn
+12	Storstrom
+13	Vejle
+14	Vestsjalland
+15	Viborg
+04	Saint George
+10	Saint Paul
+01	Azua
+03	Barahona
+05	Distrito Nacional
+06	Duarte
+28	El Seibo
+08	Espaillat
+29	Hato Mayor
+10	La Altagracia
+12	La Romana
+30	La Vega
+14	Maria Trinidad Sanchez
+31	Monsenor Nouel
+17	Peravia
+18	Puerto Plata
+19	Salcedo
+20	Samana
+33	San Cristobal
+23	San Juan
+24	San Pedro De Macoris
+21	Sanchez Ramirez
+25	Santiago
+27	Valverde
+34	Adrar
+01	Alger
+03	Batna
+38	Bechar
+18	Bejaia
+19	Biskra
+20	Blida
+21	Bouira
+41	Chlef
+04	Constantine
+22	Djelfa
+25	Laghouat
+26	Mascara
+06	Medea
+07	Mostaganem
+09	Oran
+50	Ouargla
+51	Relizane
+10	Saida
+12	Setif
+30	Sidi Bel Abbes
+31	Skikda
+33	Tebessa
+13	Tiaret
+54	Tindouf
+55	Tipaza
+14	Tizi Ouzou
+15	Tlemcen
+02	Azuay
+03	Bolivar
+04	Canar
+05	Carchi
+06	Chimborazo
+07	Cotopaxi
+08	El Oro
+09	Esmeraldas
+01	Galapagos
+10	Guayas
+11	Imbabura
+12	Loja
+13	Los Rios
+14	Manabi
+15	Morona-Santiago
+17	Pastaza
+18	Pichincha
+19	Tungurahua
+01	Harjumaa
+02	Hiiumaa
+03	Ida-Virumaa
+04	Jarvamaa
+05	Jogevamaa
+08	Laane-Virumaa
+07	Laanemaa
+11	Parnumaa
+12	Polvamaa
+13	Raplamaa
+14	Saaremaa
+18	Tartumaa
+19	Valgamaa
+20	Viljandimaa
+21	Vorumaa
+01	Ad Daqahliyah
+02	Al Bahr al Ahmar
+03	Al Buhayrah
+04	Al Fayyum
+05	Al Gharbiyah
+06	Al Iskandariyah
+07	Al Isma'iliyah
+08	Al Jizah
+09	Al Minufiyah
+10	Al Minya
+11	Al Qahirah
+12	Al Qalyubiyah
+15	As Suways
+14	Ash Sharqiyah
+16	Aswan
+17	Asyut
+18	Bani Suwayf
+19	Bur Sa'id
+20	Dumyat
+21	Kafr ash Shaykh
+22	Matruh
+23	Qina
+24	Suhaj
+51	Andalucia
+52	Aragon
+34	Asturias
+53	Canarias
+39	Cantabria
+55	Castilla y Leon
+54	Castilla-La Mancha
+56	Cataluna
+60	Comunidad Valenciana
+57	Extremadura
+58	Galicia
+07	Islas Baleares
+27	La Rioja
+29	Madrid
+31	Murcia
+32	Navarra
+59	Pais Vasco
+10	Addis Abeba
+14	Eastern Finland
+06	Lapland
+08	Oulu
+13	Southern Finland
+15	Western Finland
+01	Ã…land
+01	Central
+05	Western
+04	Yap
+C1	Alsace
+97	Aquitaine
+98	Auvergne
+99	Basse-Normandie
+A1	Bourgogne
+A2	Bretagne
+A3	Centre
+A4	Champagne-Ardenne
+A5	Corse
+A6	Franche-Comte
+A7	Haute-Normandie
+A8	Ile-de-France
+A9	Languedoc-Roussillon
+B1	Limousin
+B2	Lorraine
+B3	Midi-Pyrenees
+B4	Nord-Pas-de-Calais
+B5	Pays de la Loire
+B6	Picardie
+B7	Poitou-Charentes
+B8	Provence-Alpes-Cote d'Azur
+B9	Rhone-Alpes
+01	Estuaire
+03	Moyen-Ogooue
+07	Ogooue-Lolo
+08	Ogooue-Maritime
+T5	Aberdeen City
+T6	Aberdeenshire
+T7	Angus
+Q6	Antrim
+Q7	Ards
+T8	Argyll and Bute
+Q8	Armagh
+Q9	Ballymena
+R1	Ballymoney
+R2	Banbridge
+A1	Barking and Dagenham
+A2	Barnet
+A3	Barnsley
+A4	Bath and North East Somerset
+A5	Bedfordshire
+R3	Belfast
+03	Berkshire
+A6	Bexley
+A7	Birmingham
+A8	Blackburn with Darwen
+A9	Blackpool
+X2	Blaenau Gwent
+B1	Bolton
+B2	Bournemouth
+B3	Bracknell Forest
+B4	Bradford
+B5	Brent
+X3	Bridgend
+B6	Brighton and Hove
+B7	Bristol
+B8	Bromley
+B9	Buckinghamshire
+C1	Bury
+X4	Caerphilly
+C2	Calderdale
+C3	Cambridgeshire
+C4	Camden
+X5	Cardiff
+X7	Carmarthenshire
+R4	Carrickfergus
+R5	Castlereagh
+X6	Ceredigion
+C5	Cheshire
+U1	Clackmannanshire
+90	Clwyd
+R6	Coleraine
+X8	Conwy
+R7	Cookstown
+C6	Cornwall
+C7	Coventry
+R8	Craigavon
+C8	Croydon
+C9	Cumbria
+D1	Darlington
+X9	Denbighshire
+D2	Derby
+D3	Derbyshire
+S6	Derry
+D4	Devon
+D5	Doncaster
+D6	Dorset
+R9	Down
+D7	Dudley
+U2	Dumfries and Galloway
+U3	Dundee City
+S1	Dungannon
+D8	Durham
+D9	Ealing
+U4	East Ayrshire
+U5	East Dunbartonshire
+U6	East Lothian
+U7	East Renfrewshire
+E1	East Riding of Yorkshire
+E2	East Sussex
+U8	Edinburgh
+W8	Eilean Siar
+E3	Enfield
+E4	Essex
+U9	Falkirk
+S2	Fermanagh
+V1	Fife
+Y1	Flintshire
+E5	Gateshead
+V2	Glasgow City
+E6	Gloucestershire
+17	Greater London
+E7	Greenwich
+Y2	Gwynedd
+E8	Hackney
+E9	Halton
+F1	Hammersmith and Fulham
+F2	Hampshire
+F3	Haringey
+F4	Harrow
+F5	Hartlepool
+F6	Havering
+F7	Herefordshire
+F8	Hertford
+V3	Highland
+F9	Hillingdon
+G1	Hounslow
+V4	Inverclyde
+X1	Isle of Anglesey
+G2	Isle of Wight
+G3	Islington
+G4	Kensington and Chelsea
+G5	Kent
+G6	Kingston upon Hull
+G7	Kingston upon Thames
+G8	Kirklees
+G9	Knowsley
+H1	Lambeth
+H2	Lancashire
+S3	Larne
+H3	Leeds
+H4	Leicester
+H5	Leicestershire
+H6	Lewisham
+S4	Limavady
+H7	Lincolnshire
+S5	Lisburn
+H8	Liverpool
+H9	London
+I1	Luton
+S7	Magherafelt
+I2	Manchester
+I3	Medway
+28	Merseyside
+Y3	Merthyr Tydfil
+I4	Merton
+I5	Middlesbrough
+V5	Midlothian
+I6	Milton Keynes
+Y4	Monmouthshire
+V6	Moray
+S8	Moyle
+Y5	Neath Port Talbot
+I7	Newcastle upon Tyne
+I8	Newham
+Y6	Newport
+S9	Newry and Mourne
+T1	Newtownabbey
+I9	Norfolk
+V7	North Ayrshire
+T2	North Down
+J2	North East Lincolnshire
+V8	North Lanarkshire
+J3	North Lincolnshire
+J4	North Somerset
+J5	North Tyneside
+J7	North Yorkshire
+J1	Northamptonshire
+J6	Northumberland
+J8	Nottingham
+J9	Nottinghamshire
+K1	Oldham
+T3	Omagh
+V9	Orkney
+K2	Oxfordshire
+Y7	Pembrokeshire
+W1	Perth and Kinross
+K3	Peterborough
+K4	Plymouth
+K5	Poole
+K6	Portsmouth
+Y8	Powys
+K7	Reading
+K8	Redbridge
+K9	Redcar and Cleveland
+W2	Renfrewshire
+Y9	Rhondda Cynon Taff
+L1	Richmond upon Thames
+L2	Rochdale
+L3	Rotherham
+L4	Rutland
+L5	Salford
+T9	Scottish Borders
+L8	Sefton
+L9	Sheffield
+W3	Shetland Islands
+L6	Shropshire
+M1	Slough
+M2	Solihull
+M3	Somerset
+W4	South Ayrshire
+M6	South Gloucestershire
+W5	South Lanarkshire
+M7	South Tyneside
+37	South Yorkshire
+M4	Southampton
+M5	Southend-on-Sea
+M8	Southwark
+N1	St. Helens
+M9	Staffordshire
+W6	Stirling
+N2	Stockport
+N3	Stockton-on-Tees
+N4	Stoke-on-Trent
+T4	Strabane
+87	Strathclyde
+N5	Suffolk
+N6	Sunderland
+N7	Surrey
+N8	Sutton
+Z1	Swansea
+N9	Swindon
+O1	Tameside
+O2	Telford and Wrekin
+O3	Thurrock
+O4	Torbay
+Z2	Torfaen
+O5	Tower Hamlets
+O6	Trafford
+Z3	Vale of Glamorgan
+O7	Wakefield
+O8	Walsall
+O9	Waltham Forest
+P1	Wandsworth
+P2	Warrington
+P3	Warwickshire
+P4	West Berkshire
+W7	West Dunbartonshire
+W9	West Lothian
+43	West Midlands
+P6	West Sussex
+45	West Yorkshire
+P5	Westminster
+P7	Wigan
+P8	Wiltshire
+P9	Windsor and Maidenhead
+Q1	Wirral
+Q2	Wokingham
+Q3	Wolverhampton
+Q4	Worcestershire
+Z4	Wrexham
+Q5	York
+01	Saint Andrew
+03	Saint George
+05	Akhalgoris Raioni
+19	Dushet'is Raioni
+22	Goris Raioni
+26	Kaspis Raioni
+28	Khashuris Raioni
+38	Mts'khet'is Raioni
+47	Sagarejos Raioni
+62	Zestap'onis Raioni
+02	Ashanti
+03	Brong-Ahafo
+04	Central
+05	Eastern
+01	Greater Accra
+06	Northern
+11	Upper West
+08	Volta
+09	Western
+01	Nordgronland
+02	Ostgronland
+03	Vestgronland
+01	Banjul
+05	Western
+03	Boke
+04	Conakry
+07	Dinguiraye
+34	Labe
+36	Lola
+04	Bioko Norte
+08	Litoral
+31	Aitolia kai Akarnania
+38	Akhaia
+36	Argolis
+41	Arkadhia
+20	Arta
+35	Attiki
+47	Dhodhekanisos
+04	Drama
+30	Evritania
+01	Evros
+34	Evvoia
+08	Florina
+32	Fokis
+29	Fthiotis
+10	Grevena
+39	Ilia
+12	Imathia
+17	Ioannina
+45	Iraklion
+23	Kardhitsa
+09	Kastoria
+14	Kavala
+27	Kefallinia
+25	Kerkira
+15	Khalkidhiki
+43	Khania
+50	Khios
+49	Kikladhes
+06	Kilkis
+37	Korinthia
+11	Kozani
+42	Lakonia
+21	Larisa
+46	Lasithi
+51	Lesvos
+26	Levkas
+24	Magnisia
+40	Messinia
+07	Pella
+16	Pieria
+19	Preveza
+44	Rethimni
+02	Rodhopi
+48	Samos
+05	Serrai
+18	Thesprotia
+13	Thessaloniki
+22	Trikala
+33	Voiotia
+03	Xanthi
+28	Zakinthos
+02	Baja Verapaz
+03	Chimaltenango
+04	Chiquimula
+05	El Progreso
+06	Escuintla
+07	Guatemala
+08	Huehuetenango
+09	Izabal
+10	Jalapa
+12	Peten
+13	Quetzaltenango
+14	Quiche
+16	Sacatepequez
+17	San Marcos
+18	Santa Rosa
+19	Solola
+21	Totonicapan
+22	Zacapa
+11	Bissau
+12	Demerara-Mahaica
+18	Upper Demerara-Berbice
+01	Atlantida
+02	Choluteca
+03	Colon
+04	Comayagua
+05	Copan
+06	Cortes
+07	El Paraiso
+08	Francisco Morazan
+11	Islas de la Bahia
+15	Olancho
+16	Santa Barbara
+18	Yoro
+01	Bjelovarsko-Bilogorska
+02	Brodsko-Posavska
+03	Dubrovacko-Neretvanska
+21	Grad Zagreb
+04	Istarska
+05	Karlovacka
+06	Koprivnicko-Krizevacka
+07	Krapinsko-Zagorska
+08	Licko-Senjska
+09	Medimurska
+10	Osjecko-Baranjska
+11	Pozesko-Slavonska
+12	Primorsko-Goranska
+13	Sibensko-Kninska
+14	Sisacko-Moslavacka
+15	Splitsko-Dalmatinska
+16	Varazdinska
+17	Viroviticko-Podravska
+18	Vukovarsko-Srijemska
+20	Zagrebacka
+09	Nord
+11	Ouest
+01	Bacs-Kiskun
+02	Baranya
+03	Bekes
+04	Borsod-Abauj-Zemplen
+05	Budapest
+06	Csongrad
+07	Debrecen
+08	Fejer
+25	Gyor
+09	Gyor-Moson-Sopron
+10	Hajdu-Bihar
+11	Heves
+20	Jasz-Nagykun-Szolnok
+12	Komarom-Esztergom
+13	Miskolc
+14	Nograd
+15	Pecs
+16	Pest
+17	Somogy
+18	Szabolcs-Szatmar-Bereg
+19	Szeged
+21	Tolna
+22	Vas
+23	Veszprem
+24	Zala
+01	Aceh
+02	Bali
+03	Bengkulu
+04	Jakarta Raya
+05	Jambi
+30	Jawa Barat
+07	Jawa Tengah
+08	Jawa Timur
+11	Kalimantan Barat
+12	Kalimantan Selatan
+13	Kalimantan Tengah
+14	Kalimantan Timur
+15	Lampung
+17	Nusa Tenggara Barat
+18	Nusa Tenggara Timur
+09	Papua
+19	Riau
+20	Sulawesi Selatan
+21	Sulawesi Tengah
+22	Sulawesi Tenggara
+31	Sulawesi Utara
+24	Sumatera Barat
+26	Sumatera Utara
+10	Yogyakarta
+01	Carlow
+02	Cavan
+03	Clare
+04	Cork
+06	Donegal
+07	Dublin
+10	Galway
+11	Kerry
+12	Kildare
+13	Kilkenny
+15	Laois
+14	Leitrim
+16	Limerick
+18	Longford
+19	Louth
+20	Mayo
+21	Meath
+22	Monaghan
+23	Offaly
+24	Roscommon
+25	Sligo
+26	Tipperary
+27	Waterford
+29	Westmeath
+30	Wexford
+31	Wicklow
+01	HaDarom
+02	HaMerkaz
+03	HaZafon
+04	Hefa
+05	Tel Aviv
+06	Yerushalayim
+01	Andaman and Nicobar Islands
+02	Andhra Pradesh
+30	Arunachal Pradesh
+03	Assam
+34	Bihar
+05	Chandigarh
+37	Chhattisgarh
+32	Daman and Diu
+07	Delhi
+33	Goa
+09	Gujarat
+10	Haryana
+11	Himachal Pradesh
+12	Jammu and Kashmir
+38	Jharkhand
+19	Karnataka
+13	Kerala
+35	Madhya Pradesh
+16	Maharashtra
+17	Manipur
+18	Meghalaya
+31	Mizoram
+20	Nagaland
+21	Orissa
+22	Pondicherry
+23	Punjab
+24	Rajasthan
+29	Sikkim
+25	Tamil Nadu
+26	Tripura
+36	Uttar Pradesh
+39	Uttaranchal
+28	West Bengal
+01	Al Anbar
+02	Al Basrah
+03	Al Muthanna
+17	An Najaf
+11	Arbil
+05	As Sulaymaniyah
+13	At Ta'mim
+07	Baghdad
+08	Dahuk
+09	Dhi Qar
+10	Diyala
+12	Karbala'
+15	Ninawa
+16	Wasit
+32	Ardabil
+01	Azarbayjan-e Bakhtari
+02	Azarbayjan-e Khavari
+13	Bakhtaran
+22	Bushehr
+03	Chahar Mahall va Bakhtiari
+28	Esfahan
+07	Fars
+08	Gilan
+37	Golestan
+09	Hamadan
+11	Hormozgan
+10	Ilam
+29	Kerman
+30	Khorasan
+15	Khuzestan
+05	Kohkiluyeh va Buyer Ahmadi
+16	Kordestan
+23	Lorestan
+34	Markazi
+35	Mazandaran
+25	Semnan
+04	Sistan va Baluchestan
+26	Tehran
+31	Yazd
+03	Arnessysla
+05	Austur-Hunavatnssysla
+06	Austur-Skaftafellssysla
+07	Borgarfjardarsysla
+09	Eyjafjardarsysla
+10	Gullbringusysla
+15	Kjosarsysla
+17	Myrasysla
+21	Nordur-Tingeyjarsysla
+23	Rangarvallasysla
+28	Skagafjardarsysla
+29	Snafellsnes- og Hnappadalssysla
+31	Sudur-Mulasysla
+32	Sudur-Tingeyjarsysla
+34	Vestur-Bardastrandarsysla
+36	Vestur-Isafjardarsysla
+37	Vestur-Skaftafellssysla
+01	Abruzzi
+02	Basilicata
+03	Calabria
+04	Campania
+05	Emilia-Romagna
+06	Friuli-Venezia Giulia
+07	Lazio
+08	Liguria
+09	Lombardia
+10	Marche
+11	Molise
+12	Piemonte
+13	Puglia
+14	Sardegna
+15	Sicilia
+16	Toscana
+17	Trentino-Alto Adige
+18	Umbria
+19	Valle d'Aosta
+20	Veneto
+01	Clarendon
+04	Manchester
+08	Saint Andrew
+09	Saint Ann
+10	Saint Catherine
+11	Saint Elizabeth
+12	Saint James
+15	Trelawny
+16	Westmoreland
+02	Al Balqa'
+09	Al Karak
+10	Al Mafraq
+13	Az Zarqa
+14	Irbid
+07	Ma
+01	Aichi
+02	Akita
+03	Aomori
+04	Chiba
+05	Ehime
+06	Fukui
+07	Fukuoka
+08	Fukushima
+09	Gifu
+10	Gumma
+11	Hiroshima
+12	Hokkaido
+13	Hyogo
+14	Ibaraki
+15	Ishikawa
+16	Iwate
+17	Kagawa
+18	Kagoshima
+19	Kanagawa
+20	Kochi
+21	Kumamoto
+22	Kyoto
+23	Mie
+24	Miyagi
+25	Miyazaki
+26	Nagano
+27	Nagasaki
+28	Nara
+29	Niigata
+30	Oita
+31	Okayama
+47	Okinawa
+32	Osaka
+33	Saga
+34	Saitama
+35	Shiga
+36	Shimane
+37	Shizuoka
+38	Tochigi
+39	Tokushima
+40	Tokyo
+41	Tottori
+42	Toyama
+43	Wakayama
+44	Yamagata
+45	Yamaguchi
+46	Yamanashi
+01	Central
+02	Coast
+03	Eastern
+05	Nairobi Area
+07	Nyanza
+08	Rift Valley
+09	Western
+09	Batken
+01	Bishkek
+02	Chuy
+03	Jalal-Abad
+04	Naryn
+06	Talas
+07	Ysyk-Kol
+03	Kampong Chhnang
+06	Kampot
+08	Kaoh Kong
+11	Phnum Penh
+19	Takev
+02	Grande Comore
+02	Saint Anne Sandy Point
+03	Saint George Basseterre
+04	Saint George Gingerland
+07	Saint John Figtree
+11	Saint Peter Basseterre
+13	Saint Thomas Middle Island
+05	Ch'ungch'ong-bukto
+17	Ch'ungch'ong-namdo
+01	Cheju-do
+03	Cholla-bukto
+16	Cholla-namdo
+12	Inch'on-jikhalsi
+06	Kangwon-do
+18	Kwangju-jikhalsi
+13	Kyonggi-do
+14	Kyongsang-bukto
+20	Kyongsang-namdo
+10	Pusan-jikhalsi
+11	Seoul-t'ukpyolsi
+15	Taegu-jikhalsi
+19	Taejon-jikhalsi
+21	Ulsan-gwangyoksi
+02	Al Kuwayt
+01	Almaty
+02	Almaty City
+03	Aqmola
+04	AqtÃ¶be
+05	Astana
+06	Atyrau
+08	Bayqonyr
+15	East Kazakhstan
+09	Mangghystau
+16	North Kazakhstan
+11	Pavlodar
+12	Qaraghandy
+13	Qostanay
+14	Qyzylorda
+10	South Kazakhstan
+07	West Kazakhstan
+17	Zhambyl
+02	Champasak
+11	Vientiane
+01	Beqaa
+04	Beyrouth
+03	Liban-Nord
+06	Liban-Sud
+05	Mont-Liban
+03	Castries
+01	Balzers
+02	Eschen
+04	Mauren
+05	Planken
+06	Ruggell
+07	Schaan
+09	Triesen
+10	Triesenberg
+11	Vaduz
+11	Grand Bassa
+14	Montserrado
+14	Maseru
+56	Alytaus Apskritis
+57	Kauno Apskritis
+58	Klaipedos Apskritis
+59	Marijampoles Apskritis
+60	Panevezio Apskritis
+61	Siauliu Apskritis
+62	Taurages Apskritis
+63	Telsiu Apskritis
+64	Utenos Apskritis
+65	Vilniaus Apskritis
+01	Diekirch
+02	Grevenmacher
+03	Luxembourg
+01	Aizkraukles
+02	Aluksnes
+03	Balvu
+04	Bauskas
+05	CÃ©su
+07	Daugavpils
+08	Dobeles
+09	Gulbenes
+12	Jelgavas
+10	JÃ©kabpils
+14	KrÃ¡slavas
+15	Kuldigas
+16	LiepÃ¡ja
+17	LiepÃ¡jas
+18	Limbazu
+19	Ludzas
+20	Madonas
+21	Ogres
+22	Preilu
+25	Riga
+26	Rigas
+23	RÃ©zekne
+24	RÃ©zeknes
+27	Saldus
+28	Talsu
+29	Tukuma
+30	Valkas
+31	Valmieras
+33	Ventspils
+54	Banghazi
+58	Misratah
+34	Sabha
+61	Tarabulus
+01	Agadir
+04	Ben Slimane
+06	Boulemane
+07	Casablanca
+08	Chaouen
+09	El Jadida
+10	El Kelaa des Srarhna
+12	Essaouira
+13	Fes
+14	Figuig
+33	Guelmim
+15	Kenitra
+16	Khemisset
+19	Marrakech
+20	Meknes
+21	Nador
+22	Ouarzazate
+23	Oujda
+24	Rabat-Sale
+25	Safi
+26	Settat
+38	Sidi Kacem
+27	Tanger
+37	Taounate
+39	Taroudannt
+30	Taza
+40	Tetouan
+32	Tiznit
+46	Balti
+48	Chisinau
+50	Edinet
+51	Gagauzia
+52	Lapusna
+53	Orhei
+54	Soroca
+49	Stinga Nistrului
+55	Tighina
+56	Ungheni
+05	Antananarivo
+02	Fianarantsoa
+03	Mahajanga
+04	Toamasina
+01	Aracinovo
+06	Bitola
+08	Bogdanci
+09	Bogomila
+10	Bogovinje
+14	Capari
+15	Caska
+23	Delogozdi
+28	Dolneni
+33	Gevgelija
+34	Gostivar
+35	Gradsko
+38	Jegunovce
+39	Kamenjane
+41	Karpos
+42	Kavadarci
+43	Kicevo
+46	Kocani
+57	Kumanovo
+60	Lozovo
+62	Makedonska Kamenica
+63	Makedonski Brod
+69	Negotino
+70	Negotino-Polosko
+74	Ohrid
+75	Orasac
+79	Petrovec
+80	Plasnica
+82	Prilep
+83	Probistip
+84	Radovis
+86	Resen
+87	Rosoman
+89	Samokov
+92	Sopiste
+96	Star Dojran
+98	Stip
+99	Struga
+A1	Strumica
+A2	Studenicani
+A4	Sveti Nikole
+A6	Tetovo
+A7	Topolcani
+A8	Valandovo
+B1	Veles
+B6	Vranestica
+B8	Vratnica
+C2	Zelenikovo
+C3	Zelino
+C4	Zitose
+C6	Zrnovci
+01	Bamako
+03	Kayes
+17	Yangon
+25	Orhon
+20	Ulaanbaatar
+01	Ilhas
+06	Trarza
+03	Saint Peter
+12	Black River
+13	Flacq
+14	Grand Port
+15	Moka
+16	Pamplemousses
+17	Plaines Wilhems
+18	Port Louis
+19	Riviere du Rempart
+23	Rodrigues
+26	Kaafu
+01	Seenu
+24	Blantyre
+11	Lilongwe
+23	Zomba
+01	Aguascalientes
+02	Baja California
+03	Baja California Sur
+04	Campeche
+05	Chiapas
+06	Chihuahua
+07	Coahuila de Zaragoza
+08	Colima
+09	Distrito Federal
+10	Durango
+11	Guanajuato
+12	Guerrero
+13	Hidalgo
+14	Jalisco
+15	Mexico
+16	Michoacan de Ocampo
+17	Morelos
+18	Nayarit
+19	Nuevo Leon
+20	Oaxaca
+21	Puebla
+22	Queretaro de Arteaga
+23	Quintana Roo
+24	San Luis Potosi
+25	Sinaloa
+26	Sonora
+27	Tabasco
+28	Tamaulipas
+29	Tlaxcala
+30	Veracruz-Llave
+31	Yucatan
+32	Zacatecas
+01	Johor
+02	Kedah
+03	Kelantan
+15	Labuan
+04	Melaka
+05	Negeri Sembilan
+06	Pahang
+07	Perak
+08	Perlis
+09	Pulau Pinang
+16	Sabah
+11	Sarawak
+12	Selangor
+13	Terengganu
+14	Wilayah Persekutuan
+10	Manica
+04	Maputo
+06	Nampula
+05	Sofala
+08	Tete
+09	Zambezia
+29	Erongo
+31	Karas
+37	Oshana
+21	Windhoek
+04	Maradi
+45	Abia
+11	Abuja Capital Territory
+35	Adamawa
+21	Akwa Ibom
+25	Anambra
+46	Bauchi
+52	Bayelsa
+26	Benue
+27	Borno
+22	Cross River
+36	Delta
+53	Ebonyi
+37	Edo
+47	Enugu
+55	Gombe
+28	Imo
+39	Jigawa
+23	Kaduna
+29	Kano
+24	Katsina
+41	Kogi
+30	Kwara
+05	Lagos
+56	Nassarawa
+31	Niger
+16	Ogun
+48	Ondo
+42	Osun
+32	Oyo
+49	Plateau
+50	Rivers
+51	Sokoto
+57	Zamfara
+01	Boaco
+02	Carazo
+03	Chinandega
+05	Esteli
+06	Granada
+08	Leon
+10	Managua
+11	Masaya
+12	Matagalpa
+15	Rivas
+01	Drenthe
+16	Flevoland
+02	Friesland
+03	Gelderland
+04	Groningen
+05	Limburg
+06	Noord-Brabant
+07	Noord-Holland
+15	Overijssel
+09	Utrecht
+10	Zeeland
+11	Zuid-Holland
+01	Akershus
+02	Aust-Agder
+04	Buskerud
+05	Finnmark
+06	Hedmark
+07	Hordaland
+08	More og Romsdal
+10	Nord-Trondelag
+09	Nordland
+11	Oppland
+12	Oslo
+13	Ostfold
+14	Rogaland
+15	Sogn og Fjordane
+16	Sor-Trondelag
+17	Telemark
+18	Troms
+19	Vest-Agder
+20	Vestfold
+02	Al Batinah
+04	Ash Sharqiyah
+05	Az Zahirah
+06	Masqat
+08	Zufar
+01	Bocas del Toro
+02	Chiriqui
+03	Cocle
+04	Colon
+05	Darien
+06	Herrera
+07	Los Santos
+08	Panama
+09	San Blas
+10	Veraguas
+01	Amazonas
+02	Ancash
+03	Apurimac
+04	Arequipa
+05	Ayacucho
+06	Cajamarca
+07	Callao
+08	Cusco
+09	Huancavelica
+10	Huanuco
+11	Ica
+12	Junin
+13	La Libertad
+14	Lambayeque
+15	Lima
+16	Loreto
+17	Madre de Dios
+18	Moquegua
+19	Pasco
+20	Piura
+21	Puno
+22	San Martin
+23	Tacna
+24	Tumbes
+25	Ucayali
+03	Milne Bay
+14	Morobe
+20	National Capital
+01	Abra
+02	Agusan del Norte
+03	Agusan del Sur
+04	Aklan
+05	Albay
+A1	Angeles
+06	Antique
+G8	Aurora
+A2	Bacolod
+A3	Bago
+A4	Baguio
+22	Basilan
+07	Bataan
+08	Batanes
+09	Batangas
+A7	Batangas City
+10	Benguet
+11	Bohol
+12	Bukidnon
+13	Bulacan
+A8	Butuan
+A9	Cabanatuan
+B1	Cadiz
+14	Cagayan
+B2	Cagayan de Oro
+B3	Calbayog
+B4	Caloocan
+15	Camarines Norte
+16	Camarines Sur
+17	Camiguin
+B5	Canlaon
+18	Capiz
+19	Catanduanes
+20	Cavite
+B6	Cavite City
+21	Cebu
+B7	Cebu City
+B8	Cotabato
+B9	Dagupan
+C1	Danao
+24	Davao
+C3	Davao City
+26	Davao Oriental
+25	Davao del Sur
+C4	Dipolog
+C5	Dumaguete
+23	Eastern Samar
+C6	General Santos
+C7	Gingoog
+27	Ifugao
+C8	Iligan
+28	Ilocos Norte
+29	Ilocos Sur
+30	Iloilo
+C9	Iloilo City
+D1	Iriga
+31	Isabela
+32	Kalinga-Apayao
+D2	La Carlota
+36	La Union
+33	Laguna
+34	Lanao del Norte
+35	Lanao del Sur
+D3	Laoag
+D4	Lapu-Lapu
+D5	Legaspi
+37	Leyte
+D6	Lipa
+D7	Lucena
+56	Maguindanao
+D8	Mandaue
+D9	Manila
+E1	Marawi
+38	Marinduque
+39	Masbate
+40	Mindoro Occidental
+41	Mindoro Oriental
+42	Misamis Occidental
+43	Misamis Oriental
+44	Mountain
+E2	Naga
+H3	Negros Occidental
+46	Negros Oriental
+57	North Cotabato
+67	Northern Samar
+47	Nueva Ecija
+48	Nueva Vizcaya
+E3	Olongapo
+E4	Ormoc
+E5	Oroquieta
+E6	Ozamis
+E7	Pagadian
+49	Palawan
+50	Pampanga
+51	Pangasinan
+E9	Pasay
+F1	Puerto Princesa
+H2	Quezon
+F2	Quezon City
+53	Rizal
+54	Romblon
+F3	Roxas
+55	Samar
+F4	San Carlos
+F7	San Pablo
+F8	Silay
+69	Siquijor
+58	Sorsogon
+70	South Cotabato
+59	Southern Leyte
+71	Sultan Kudarat
+60	Sulu
+F9	Surigao
+61	Surigao del Norte
+62	Surigao del Sur
+G1	Tacloban
+G2	Tagaytay
+G3	Tagbilaran
+63	Tarlac
+G5	Toledo
+64	Zambales
+G7	Zamboanga
+65	Zamboanga del Norte
+66	Zamboanga del Sur
+06	Azad Kashmir
+02	Balochistan
+01	Federally Administered Tribal Areas
+08	Islamabad
+03	North-West Frontier
+04	Punjab
+05	Sindh
+23	Biala Podlaska
+24	Bialystok
+25	Bielsko
+26	Bydgoszcz
+27	Chelm
+28	Ciechanow
+29	Czestochowa
+72	Dolnoslaskie
+30	Elblag
+31	Gdansk
+32	Gorzow
+33	Jelenia Gora
+34	Kalisz
+35	Katowice
+36	Kielce
+37	Konin
+38	Koszalin
+39	Krakow
+40	Krosno
+73	Kujawsko-Pomorskie
+41	Legnica
+42	Leszno
+43	Lodz
+74	Lodzkie
+44	Lomza
+75	Lubelskie
+45	Lublin
+76	Lubuskie
+77	Malopolskie
+46	Nowy Sacz
+47	Olsztyn
+48	Opole
+79	Opolskie
+49	Ostroleka
+50	Pila
+51	Piotrkow
+52	Plock
+80	Podkarpackie
+81	Podlaskie
+82	Pomorskie
+53	Poznan
+54	Przemysl
+55	Radom
+56	Rzeszow
+57	Siedlce
+58	Sieradz
+59	Skierniewice
+83	Slaskie
+60	Slupsk
+61	Suwalki
+84	Swietokrzyskie
+63	Tarnobrzeg
+64	Tarnow
+65	Torun
+66	Walbrzych
+85	Warminsko-Mazurskie
+67	Warszawa
+86	Wielkopolskie
+68	Wloclawek
+69	Wroclaw
+87	Zachodniopomorskie
+70	Zamosc
+71	Zielona Gora
+02	Aveiro
+23	Azores
+03	Beja
+04	Braga
+05	Braganca
+06	Castelo Branco
+07	Coimbra
+08	Evora
+09	Faro
+11	Guarda
+13	Leiria
+14	Lisboa
+10	Madeira
+16	Portalegre
+17	Porto
+18	Santarem
+19	Setubal
+20	Viana do Castelo
+21	Vila Real
+22	Viseu
+01	Alto Parana
+04	Caaguazu
+06	Central
+11	Itapua
+13	Neembucu
+01	Ad Dawhah
+04	Al Khawr
+01	Alba
+02	Arad
+03	Arges
+04	Bacau
+05	Bihor
+06	Bistrita-Nasaud
+07	Botosani
+08	Braila
+09	Brasov
+10	Bucuresti
+11	Buzau
+41	Calarasi
+12	Caras-Severin
+13	Cluj
+14	Constanta
+15	Covasna
+16	Dambovita
+17	Dolj
+18	Galati
+42	Giurgiu
+19	Gorj
+20	Harghita
+21	Hunedoara
+22	Ialomita
+23	Iasi
+43	Ilfov
+25	Maramures
+26	Mehedinti
+27	Mures
+28	Neamt
+29	Olt
+30	Prahova
+31	Salaj
+32	Satu Mare
+33	Sibiu
+34	Suceava
+35	Teleorman
+36	Timis
+37	Tulcea
+39	Valcea
+38	Vaslui
+40	Vrancea
+01	Adygeya
+04	Altaisky krai
+05	Amur
+06	Arkhangel'sk
+07	Astrakhan'
+08	Bashkortostan
+09	Belgorod
+10	Bryansk
+11	Buryat
+13	Chelyabinsk
+14	Chita
+15	Chukot
+16	Chuvashia
+17	Dagestan
+18	Evenk
+03	Gorno-Altay
+20	Irkutsk
+21	Ivanovo
+22	Kabardin-Balkar
+23	Kaliningrad
+24	Kalmyk
+25	Kaluga
+26	Kamchatka
+27	Karachay-Cherkess
+28	Karelia
+29	Kemerovo
+30	Khabarovsk
+31	Khakass
+32	Khanty-Mansiy
+33	Kirov
+34	Komi
+35	Komi-Permyak
+36	Koryak
+37	Kostroma
+38	Krasnodar
+39	Krasnoyarsk
+40	Kurgan
+41	Kursk
+42	Leningrad
+43	Lipetsk
+44	Magadan
+45	Mariy-El
+46	Mordovia
+48	Moscow City
+47	Moskva
+49	Murmansk
+50	Nenets
+51	Nizhegorod
+68	North Ossetia
+52	Novgorod
+53	Novosibirsk
+54	Omsk
+56	Orel
+55	Orenburg
+57	Penza
+58	Perm'
+59	Primor'ye
+60	Pskov
+61	Rostov
+62	Ryazan'
+66	Saint Petersburg City
+63	Sakha
+64	Sakhalin
+65	Samara
+67	Saratov
+69	Smolensk
+70	Stavropol'
+71	Sverdlovsk
+72	Tambovskaya oblast
+73	Tatarstan
+74	Taymyr
+75	Tomsk
+76	Tula
+79	Tuva
+77	Tver'
+78	Tyumen'
+80	Udmurt
+81	Ul'yanovsk
+82	Ust-Orda Buryat
+83	Vladimir
+84	Volgograd
+85	Vologda
+86	Voronezh
+87	Yamal-Nenets
+88	Yaroslavl'
+89	Yevrey
+01	Butare
+09	Kigali
+02	Al Bahah
+15	Al Hudud ash Shamaliyah
+20	Al Jawf
+05	Al Madinah
+08	Al Qasim
+10	Ar Riyad
+06	Ash Sharqiyah
+17	Jizan
+14	Makkah
+08	Makira
+08	Beau Vallon
+29	Al Khartum
+02	Blekinge Lan
+10	Dalarnas Lan
+03	Gavleborgs Lan
+05	Gotlands Lan
+06	Hallands Lan
+07	Jamtlands Lan
+08	Jonkopings Lan
+09	Kalmar Lan
+12	Kronobergs Lan
+13	Malmohus Lan
+14	Norrbottens Lan
+15	Orebro Lan
+16	Ostergotlands Lan
+27	Skane Lan
+18	Sodermanlands Lan
+26	Stockholms Lan
+21	Uppsala Lan
+22	Varmlands Lan
+23	Vasterbottens Lan
+24	Vasternorrlands Lan
+25	Vastmanlands Lan
+28	Vastra Gotaland
+04	Bohinj
+09	Brezovica
+01	Banska Bystrica
+02	Bratislava
+03	Kosice
+04	Nitra
+05	Presov
+06	Trencin
+07	Trnava
+08	Zilina
+04	Western Area
+09	Serravalle
+01	Dakar
+03	Diourbel
+10	Kaolack
+11	Kolda
+04	Saint-Louis
+07	Thies
+12	Ziguinchor
+02	Banaadir
+03	Bari
+11	Nugaal
+16	Woqooyi Galbeed
+14	Nickerie
+16	Paramaribo
+02	Sao Tome
+02	Cabanas
+03	Chalatenango
+04	Cuscatlan
+05	La Libertad
+06	La Paz
+07	La Union
+08	Morazan
+09	San Miguel
+10	San Salvador
+12	San Vicente
+11	Santa Ana
+13	Sonsonate
+14	Usulutan
+02	Al Ladhiqiyah
+13	Dimashq
+09	Halab
+10	Hamah
+11	Hims
+12	Idlib
+08	Rif Dimashq
+14	Tartus
+01	Hhohho
+03	Manzini
+04	Shiselweni
+04	Chari-Baguirmi
+05	Guera
+08	Logone Occidental
+12	Ouaddai
+09	Lama-Kara
+18	Tsevie
+35	Ang Thong
+28	Buriram
+44	Chachoengsao
+26	Chaiyaphum
+48	Chanthaburi
+02	Chiang Mai
+03	Chiang Rai
+46	Chon Buri
+58	Chumphon
+23	Kalasin
+11	Kamphaeng Phet
+50	Kanchanaburi
+22	Khon Kaen
+63	Krabi
+40	Krung Thep
+06	Lampang
+05	Lamphun
+18	Loei
+24	Maha Sarakham
+78	Mukdahan
+53	Nakhon Pathom
+27	Nakhon Ratchasima
+16	Nakhon Sawan
+64	Nakhon Si Thammarat
+04	Nan
+38	Nonthaburi
+39	Pathum Thani
+69	Pattani
+61	Phangnga
+66	Phatthalung
+41	Phayao
+14	Phetchabun
+56	Phetchaburi
+13	Phichit
+12	Phitsanulok
+36	Phra Nakhon Si Ayutthaya
+07	Phrae
+62	Phuket
+57	Prachuap Khiri Khan
+59	Ranong
+52	Ratchaburi
+47	Rayong
+25	Roi Et
+20	Sakon Nakhon
+42	Samut Prakan
+55	Samut Sakhon
+54	Samut Songkhram
+30	Sisaket
+68	Songkhla
+09	Sukhothai
+51	Suphan Buri
+60	Surat Thani
+29	Surin
+08	Tak
+65	Trang
+49	Trat
+75	Ubon Ratchathani
+76	Udon Thani
+10	Uttaradit
+70	Yala
+72	Yasothon
+02	Khatlon
+03	Sughd
+01	Ahal
+16	Al Munastir
+03	Al Qayrawan
+17	Bajah
+18	Banzart
+14	Kef
+19	Nabul
+29	Qabis
+32	Safaqis
+33	Sidi Bu Zayd
+23	Susah
+34	Tatawin
+36	Tunis
+03	Vava
+81	Adana
+02	Adiyaman
+03	Afyon
+04	Agri
+05	Amasya
+68	Ankara
+07	Antalya
+86	Ardahan
+08	Artvin
+09	Aydin
+10	Balikesir
+11	Bilecik
+12	Bingol
+13	Bitlis
+14	Bolu
+15	Burdur
+16	Bursa
+17	Canakkale
+19	Corum
+20	Denizli
+21	Diyarbakir
+22	Edirne
+23	Elazig
+24	Erzincan
+25	Erzurum
+26	Eskisehir
+83	Gaziantep
+28	Giresun
+69	Gumushane
+70	Hakkari
+31	Hatay
+32	Icel
+33	Isparta
+34	Istanbul
+35	Izmir
+46	Kahramanmaras
+78	Karaman
+84	Kars
+37	Kastamonu
+38	Kayseri
+90	Kilis
+39	Kirklareli
+40	Kirsehir
+41	Kocaeli
+71	Konya
+43	Kutahya
+44	Malatya
+45	Manisa
+48	Mugla
+49	Mus
+50	Nevsehir
+73	Nigde
+52	Ordu
+91	Osmaniye
+53	Rize
+54	Sakarya
+55	Samsun
+63	Sanliurfa
+57	Sinop
+80	Sirnak
+58	Sivas
+59	Tekirdag
+60	Tokat
+61	Trabzon
+62	Tunceli
+64	Usak
+65	Van
+92	Yalova
+66	Yozgat
+01	Arima
+02	Caroni
+05	Port-of-Spain
+06	Saint Andrew
+08	Saint George
+09	Saint Patrick
+10	San Fernando
+11	Tobago
+12	Victoria
+01	Fu-chien
+03	T'ai-pei
+04	T'ai-wan
+23	Dar es Salaam
+03	Dodoma
+04	Iringa
+06	Kilimanjaro
+11	Mtwara
+12	Mwanza
+18	Tanga
+25	Zanzibar Urban
+01	Cherkas'ka Oblast'
+02	Chernihivs'ka Oblast'
+03	Chernivets'ka Oblast'
+04	Dnipropetrovs'ka Oblast'
+05	Donets'ka Oblast'
+06	Ivano-Frankivs'ka Oblast'
+07	Kharkivs'ka Oblast'
+08	Khersons'ka Oblast'
+09	Khmel'nyts'ka Oblast'
+10	Kirovohrads'ka Oblast'
+11	Krym
+13	Kyyivs'ka Oblast'
+15	L'vivs'ka Oblast'
+14	Luhans'ka Oblast'
+16	Mykolayivs'ka Oblast'
+17	Odes'ka Oblast'
+18	Poltavs'ka Oblast'
+19	Rivnens'ka Oblast'
+20	Sevastopol'
+21	Sums'ka Oblast'
+22	Ternopil's'ka Oblast'
+23	Vinnyts'ka Oblast'
+24	Volyns'ka Oblast'
+25	Zakarpats'ka Oblast'
+26	Zaporiz'ka Oblast'
+27	Zhytomyrs'ka Oblast'
+37	Kampala
+96	Wakiso
+AL	Alabama
+AK	Alaska
+AZ	Arizona
+AR	Arkansas
+AA	Armed Forces Americas
+AE	Armed Forces Europe
+AP	Armed Forces Pacific
+CA	California
+CO	Colorado
+CT	Connecticut
+DE	Delaware
+DC	District of Columbia
+FL	Florida
+GA	Georgia
+HI	Hawaii
+ID	Idaho
+IL	Illinois
+IN	Indiana
+IA	Iowa
+KS	Kansas
+KY	Kentucky
+LA	Louisiana
+ME	Maine
+MD	Maryland
+MA	Massachusetts
+MI	Michigan
+MN	Minnesota
+MS	Mississippi
+MO	Missouri
+MT	Montana
+NE	Nebraska
+NV	Nevada
+NH	New Hampshire
+NJ	New Jersey
+NM	New Mexico
+NY	New York
+NC	North Carolina
+ND	North Dakota
+OH	Ohio
+OK	Oklahoma
+OR	Oregon
+PA	Pennsylvania
+RI	Rhode Island
+SC	South Carolina
+SD	South Dakota
+TN	Tennessee
+TX	Texas
+UT	Utah
+VT	Vermont
+VA	Virginia
+WA	Washington
+WV	West Virginia
+WI	Wisconsin
+WY	Wyoming
+02	Canelones
+03	Cerro Largo
+04	Colonia
+05	Durazno
+06	Flores
+07	Florida
+08	Lavalleja
+09	Maldonado
+10	Montevideo
+11	Paysandu
+12	Rio Negro
+14	Rocha
+15	Salto
+16	San Jose
+17	Soriano
+18	Tacuarembo
+01	Andijon
+02	Bukhoro
+03	Farghona
+07	Nawoiy
+08	Qashqadaryo
+10	Samarqand
+14	Toshkent
+04	Saint George
+01	Amazonas
+02	Anzoategui
+03	Apure
+04	Aragua
+05	Barinas
+06	Bolivar
+07	Carabobo
+08	Cojedes
+25	Distrito Federal
+11	Falcon
+12	Guarico
+13	Lara
+14	Merida
+15	Miranda
+16	Monagas
+17	Nueva Esparta
+18	Portuguesa
+19	Sucre
+20	Tachira
+21	Trujillo
+26	Vargas
+22	Yaracuy
+23	Zulia
+43	An Giang
+53	Ba Ria-Vung Tau
+02	Bac Thai
+03	Ben Tre
+54	Binh Dinh
+56	Can Tho
+05	Cao Bang
+44	Dac Lac
+45	Dong Nai
+46	Dong Thap
+11	Ha Bac
+58	Ha Giang
+51	Ha Noi
+59	Ha Tay
+60	Ha Tinh
+12	Hai Hung
+13	Hai Phong
+63	Kon Tum
+22	Lai Chau
+23	Lam Dong
+39	Lang Son
+24	Long An
+48	Minh Hai
+65	Nam Ha
+66	Nghe An
+67	Ninh Binh
+69	Phu Yen
+70	Quang Binh
+29	Quang Nam-Da Nang
+71	Quang Ngai
+73	Soc Trang
+32	Son La
+49	Song Be
+33	Tay Ninh
+35	Thai Binh
+34	Thanh Hoa
+74	Thua Thien
+37	Tien Giang
+77	Vinh Long
+78	Yen Bai
+08	Efate
+11	Dhamar
+04	Hadramawt
+16	San
+05	Eastern Cape
+03	Free State
+06	Gauteng
+02	KwaZulu-Natal
+09	Limpopo
+07	Mpumalanga
+10	North-West
+08	Northern Cape
+11	Western Cape
+02	Central
+04	Luapula
+09	Lusaka
+05	Northern
+01	Western
+04	Mashonaland East
+06	Matabeleland North
+07	Matabeleland South
